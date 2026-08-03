@@ -48,7 +48,7 @@
     >
     > <copy>venv\Scripts\activate.ps1</copy>
     > 
-    > <copy>pip install -r requirements.txt</copy>
+    > <copy>pip install -r requirements_dev.txt</copy>
     >
     > <copy>mkdocs serve --livereload</copy>
     >
@@ -65,7 +65,7 @@
     >
     > <copy>source venv/bin/activate</copy>
     >     
-    > <copy>pip install -r requirements.txt</copy>
+    > <copy>pip install -r requirements_dev.txt</copy>
     >
     > <copy>mkdocs serve --livereload</copy>
     >
