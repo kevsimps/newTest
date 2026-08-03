@@ -88,8 +88,24 @@ nav:
   - Home: index.md
   - Lab:
       - Overview: overview.md
-      - Lab 1 - Getting Started: lab1_getting_started.md
-      - Conclusion: conclusion.md
+      - Lab 1: lab-1-getting-started-with-collaboration-control-hub.md
+      - Lab 2: lab-2-assigning-agent-licenses.md
+      - Lab 3: lab-3-tenant-settings.md
+      - Lab 4: lab-4-agent-administration-part-1.md
+      - Lab 5: lab-5-agent-administration-part-2.md
+      - Lab 6: lab-6-desktop-profile-creation.md
+      - Lab 7: lab-7-agents-and-supervisor-resources-and-access.md
+      - Lab 8: lab-8-prework-steps.md
+      - Lab 9: lab-9-voice-queue-flows.md
+      - Lab 10: lab-10-channels-and-an-agent-test-call.md
+      - Lab 11: lab-11-call-recording-and-monitoring.md
+      - Lab 12: lab-12-digital-channels-preflow-steps.md
+      - Lab 13: lab-13-chat-flow-creation.md
+      - Lab 14: lab-14-chat-flow-with-scripted-ai.md
+      - Lab 15: lab-15-reporting.md
+
+      # - Lab 1 - Getting Started: lab1_getting_started.md
+      # - Conclusion: conclusion.md
   - Topologies: topologies.md
   - How to use this guide:
       - Setting up and using the tool:
